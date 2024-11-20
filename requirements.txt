@@ -1,0 +1,2 @@
+pymysql
+zhconv  # 繁体字转换模块
